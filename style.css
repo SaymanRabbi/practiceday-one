@@ -67,3 +67,10 @@ p{
     margin: 0 auto;
     border: 1px solid blueviolet;
 }
+iframe{
+    display: block;
+}
+a{
+    color: red;
+    font-size: 30px;
+}
